@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://amagiuda.github.io/Lxp/sitemap_index.txt
+Sitemap: https://amagiuda.github.io/PoY/sitemap_index.txt
+Sitemap: https://amagiuda.github.io/YTf/sitemap_index.txt
+Sitemap: https://amagiuda.github.io/sEv/sitemap_index.txt
